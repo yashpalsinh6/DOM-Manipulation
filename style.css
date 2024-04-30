@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.middle{
+    border-bottom: 1px solid white; /* Adjust thickness and color as needed */
+    width: fit-content; /* Adjust width as needed */
+    padding-bottom: 10px;
+}
+.button1{
+    border: 1px white;
+    background-color: white;
+    padding: 7px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 7px;
+}
+#clear{
+    border: solid 1px white;
+    background-color: Black;
+    color: white;
+    padding: 7px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 7px;
+    
+}
+#error{
+    color: red;
+}
